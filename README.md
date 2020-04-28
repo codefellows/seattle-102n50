@@ -11,7 +11,8 @@ In this course you will build a strong software development foundation and learn
 
 ### Instructional Staff
 
-Instructor: Ryan Gallaway,  email: ryan@codefellows.com, slack: @Ryan
+- Instructor: Ryan Gallaway,  email: ryan@codefellows.com, slack: @Ryan
+- TA: Adrienne Easton, slack: @Adrienne
 
 
 **[Link to Canvas Assignments](https://canvas.instructure.com/courses/1968678)**
