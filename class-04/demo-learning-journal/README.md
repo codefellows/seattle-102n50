@@ -9,4 +9,3 @@ Hello, my name is Ryan and I am teaching code 102n50
 - [Markdown Notes](markdown-notes.md)
 - [Tools & Terminal Notes:](tools-terminal.md)
 - [Git v GitHub](git-github.md)
-- [HTML Notes](html-notes.md)
