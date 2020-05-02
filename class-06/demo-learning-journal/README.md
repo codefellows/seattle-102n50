@@ -12,3 +12,4 @@ Hello, my name is Ryan and I am teaching code 102n50
 - [HTML Notes](html-notes.md)
 - [CSS notes](css-notes.md)
 - [JavaScript Notes](javascript-notes.md)
+- [How Computers Work](computer-videos.md)

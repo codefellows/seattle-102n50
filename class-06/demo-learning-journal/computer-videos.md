@@ -1,0 +1,1 @@
+this is where I will put my notes about videos
